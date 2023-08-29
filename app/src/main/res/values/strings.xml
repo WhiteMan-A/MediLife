@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MediLife - Health &amp; Medicine</string>
+    <string name="skip">Skip</string>
+    <string name="empty">null</string>
+    <string name="search_doctors">Search Doctors</string>
+    <string name="get_list_of_the_best_doctors_nearby_you">Get list of the best doctors \n Nearby you</string>
+    <string name="next">Next</string>
+    <string name="back">BACK</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="book_an_appointment_with_a_n_right_doctor">Book an appointment with a \n right doctor</string>
+    <string name="book_diagnostic">Book Diagnostic</string>
+    <string name="search_and_book_diagnostic_n_test">Search and book diagnostic \n test</string>
+    <string name="patient">Patient</string>
+    <string name="consultant">Consultant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
